@@ -124,7 +124,7 @@ echo '
                         ?>
 
                         <br>
-                        <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="register.php" style="color: #393f81;"><b>Register here</b></a></p>
+                        <p style="text-align: center;" class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="register.php" style="color: #393f81;"><b>Register here</b></a></p>
                         <div class="copyright">
                             <p>Copyright &copy reserved by <strong>Polygon AudioBook</strong></p>
                         </div>
