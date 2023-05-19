@@ -1,0 +1,385 @@
+[16-Jan-2023 01:02:48 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Jan-2023 01:02:48 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 8
+[16-Jan-2023 01:02:48 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 47
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Jan-2023 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Jan-2023 01:03:21 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[16-Jan-2023 01:03:27 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[16-Jan-2023 01:03:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[16-Jan-2023 01:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[16-Jan-2023 01:03:29 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[16-Jan-2023 01:03:29 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[16-Jan-2023 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[16-Jan-2023 01:03:29 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[16-Jan-2023 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[16-Jan-2023 01:03:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[16-Jan-2023 01:03:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[16-Jan-2023 01:03:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[16-Jan-2023 01:03:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[16-Jan-2023 01:03:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[18-Mar-2023 08:36:00 UTC] PHP Notice:  Undefined index: profile_pic in /home/moneymon/public_html/278366/Project_AudioBook/php/register.php on line 165
+[18-Mar-2023 08:36:29 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[18-Mar-2023 08:36:39 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[19-Mar-2023 18:00:31 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[08-Apr-2023 14:17:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[08-Apr-2023 14:17:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[08-Apr-2023 14:17:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[08-Apr-2023 14:17:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[08-Apr-2023 14:17:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[08-Apr-2023 14:17:45 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[08-Apr-2023 14:17:53 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[08-Apr-2023 14:17:54 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[08-Apr-2023 14:17:54 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[08-Apr-2023 14:17:56 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[08-Apr-2023 14:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[08-Apr-2023 14:18:01 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[08-Apr-2023 14:18:01 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[08-Apr-2023 14:18:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[08-Apr-2023 14:18:01 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[08-Apr-2023 14:18:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[08-Apr-2023 14:18:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 107
+[08-Apr-2023 17:20:59 UTC] PHP Notice:  Undefined index: profile_pic in /home/moneymon/public_html/278366/Project_AudioBook/php/register.php on line 165
+[08-Apr-2023 17:21:29 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[08-Apr-2023 17:23:36 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[08-Apr-2023 17:23:36 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[08-Apr-2023 17:23:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[08-Apr-2023 17:23:38 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[08-Apr-2023 17:23:38 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[08-Apr-2023 17:23:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[08-Apr-2023 17:23:49 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[08-Apr-2023 17:23:49 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[08-Apr-2023 17:23:49 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[08-Apr-2023 17:23:53 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[08-Apr-2023 17:23:53 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 179
+[13-Apr-2023 14:32:52 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[13-Apr-2023 14:33:15 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[13-Apr-2023 14:33:18 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[13-Apr-2023 14:33:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[13-Apr-2023 14:33:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[13-Apr-2023 14:33:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[13-Apr-2023 14:33:22 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[16-Apr-2023 19:03:36 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[16-Apr-2023 19:03:44 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:03:44 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[16-Apr-2023 19:03:44 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[16-Apr-2023 19:03:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[16-Apr-2023 19:03:45 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:03:47 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:03:47 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[16-Apr-2023 19:03:47 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[16-Apr-2023 19:03:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[16-Apr-2023 19:03:48 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:03:48 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[16-Apr-2023 19:03:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Apr-2023 19:03:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Apr-2023 19:03:58 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[16-Apr-2023 19:03:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[16-Apr-2023 19:03:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[16-Apr-2023 19:04:05 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[16-Apr-2023 19:04:18 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[16-Apr-2023 19:04:20 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:04:20 UTC] PHP Notice:  Undefined index: book_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 9
+[16-Apr-2023 19:04:20 UTC] PHP Notice:  Undefined index: favourite_qty in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 19
+[16-Apr-2023 19:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'favourite_qty' in 'field list' in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php:23
+Stack trace:
+#0 /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php(23): PDO->exec('UPDATE tbl_favo...')
+#1 {main}
+  thrown in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 23
+[16-Apr-2023 19:04:21 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[16-Apr-2023 19:04:27 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[16-Apr-2023 19:04:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[16-Apr-2023 19:04:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Apr-2023 19:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[16-Apr-2023 19:04:36 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[21-Apr-2023 20:54:18 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[21-Apr-2023 20:54:18 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[21-Apr-2023 20:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[21-Apr-2023 20:54:18 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[21-Apr-2023 20:54:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[21-Apr-2023 21:00:42 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[22-Apr-2023 00:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[22-Apr-2023 00:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[22-Apr-2023 00:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[22-Apr-2023 00:15:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[22-Apr-2023 00:15:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[22-Apr-2023 00:22:27 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[22-Apr-2023 00:22:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[22-Apr-2023 00:22:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[22-Apr-2023 00:28:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[22-Apr-2023 00:35:35 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[22-Apr-2023 00:35:35 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 8
+[22-Apr-2023 00:35:35 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 47
+[22-Apr-2023 15:40:29 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[22-Apr-2023 15:40:29 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[22-Apr-2023 15:40:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[22-Apr-2023 15:40:29 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[22-Apr-2023 15:40:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[22-Apr-2023 15:42:04 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[22-Apr-2023 17:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[22-Apr-2023 17:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[22-Apr-2023 17:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[22-Apr-2023 17:32:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[22-Apr-2023 17:32:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[22-Apr-2023 17:53:57 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[22-Apr-2023 17:53:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[22-Apr-2023 17:53:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[22-Apr-2023 20:24:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[22-Apr-2023 20:27:01 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 5
+[22-Apr-2023 20:27:01 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 8
+[22-Apr-2023 20:27:01 UTC] PHP Notice:  Undefined index: submit in /home/moneymon/public_html/278366/Project_AudioBook/php/update_favourite.php on line 47
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[11-May-2023 00:26:55 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[11-May-2023 00:26:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[11-May-2023 01:54:43 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 23
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 103
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 105
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 118
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 121
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 130
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 133
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 142
+[11-May-2023 12:01:37 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[11-May-2023 12:01:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/profile.php on line 145
+[11-May-2023 13:08:00 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[11-May-2023 13:08:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[11-May-2023 13:08:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[12-May-2023 05:06:19 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[12-May-2023 05:06:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[12-May-2023 05:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[12-May-2023 16:53:49 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[12-May-2023 16:53:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[12-May-2023 16:53:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[12-May-2023 16:53:49 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[12-May-2023 16:53:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[12-May-2023 16:53:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[12-May-2023 16:53:49 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[12-May-2023 16:53:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[12-May-2023 16:53:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[12-May-2023 16:53:49 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[12-May-2023 16:53:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[12-May-2023 16:53:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[12-May-2023 17:07:25 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 32
+[12-May-2023 17:07:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 177
+[12-May-2023 17:07:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/favourite.php on line 178
+[12-May-2023 23:05:33 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[12-May-2023 23:05:33 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[12-May-2023 23:05:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[12-May-2023 23:05:33 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[12-May-2023 23:05:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[12-May-2023 23:21:33 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[14-May-2023 08:16:27 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/home.php on line 22
+[15-May-2023 18:03:27 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[15-May-2023 18:03:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[15-May-2023 18:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[15-May-2023 18:03:27 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[15-May-2023 18:03:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[15-May-2023 18:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[15-May-2023 18:03:27 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[15-May-2023 18:03:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[15-May-2023 18:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[15-May-2023 18:03:27 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[15-May-2023 18:03:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[15-May-2023 18:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[15-May-2023 19:41:18 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[15-May-2023 19:41:18 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[15-May-2023 19:41:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[15-May-2023 19:41:18 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[15-May-2023 19:41:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[15-May-2023 22:03:24 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 188
+[15-May-2023 22:03:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 191
+[15-May-2023 22:03:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 192
+[15-May-2023 22:03:24 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 210
+[15-May-2023 22:03:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 213
+[15-May-2023 22:03:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 214
+[15-May-2023 22:03:24 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 230
+[15-May-2023 22:03:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 233
+[15-May-2023 22:03:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 234
+[15-May-2023 22:03:24 UTC] PHP Notice:  Undefined index: id in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 249
+[15-May-2023 22:03:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 252
+[15-May-2023 22:03:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/moneymon/public_html/278366/Project_AudioBook/php/book_detail.php on line 253
+[16-May-2023 10:48:52 UTC] PHP Notice:  Undefined index: user_id in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 22
+[16-May-2023 10:48:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[16-May-2023 10:48:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 94
+[16-May-2023 10:48:52 UTC] PHP Notice:  Undefined variable: row in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
+[16-May-2023 10:48:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/moneymon/public_html/278366/Project_AudioBook/php/edit.php on line 96
